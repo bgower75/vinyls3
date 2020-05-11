@@ -1,0 +1,35 @@
+{
+  "name": "vinyls3",
+  "version": "1.0.0",
+  "description": "3rd synoptic",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "test": "jest",
+    "lint": "eslint src",
+    "lint-fix": "npm run ling -- --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgower75/vinyls3.git"
+  },
+  "keywords": [],
+  "author": "Belinda Gower",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bgower75/vinyls3/issues"
+  },
+  "homepage": "https://github.com/bgower75/vinyls3#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.13"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.0.0",
+    "jest": "^26.0.1",
+    "winston": "^3.2.1"
+  }
+}

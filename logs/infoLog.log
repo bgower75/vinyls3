@@ -1,0 +1,26 @@
+{"message":"We've reached the database","level":"info","service":"user-service","timestamp":"11-05-2020 19:24:30"}
+{"message":"Listening to server on port 3001","level":"info","service":"user-service","timestamp":"11-05-2020 19:24:30"}
+{"message":"On the router's page","level":"info","service":"user-service","timestamp":"11-05-2020 19:24:52"}
+{"message":"On the router's page","level":"info","service":"user-service","timestamp":"11-05-2020 19:25:01"}
+{"message":"We've reached the database","level":"info","service":"user-service","timestamp":"11-05-2020 19:25:45"}
+{"message":"Listening to server on port 3001","level":"info","service":"user-service","timestamp":"11-05-2020 19:25:45"}
+{"message":"We've reached the database","level":"info","service":"user-service","timestamp":"11-05-2020 19:26:14"}
+{"message":"Listening to server on port 3001","level":"info","service":"user-service","timestamp":"11-05-2020 19:26:14"}
+{"message":"On the router's page","level":"info","service":"user-service","timestamp":"11-05-2020 19:26:18"}
+{"message":"On the router's page","level":"info","service":"user-service","timestamp":"11-05-2020 19:26:55"}
+{"message":"On the router's page","level":"info","service":"user-service","timestamp":"11-05-2020 19:27:05"}
+{"message":"On the router's page","level":"info","service":"user-service","timestamp":"11-05-2020 19:27:48"}
+{"message":"On the router's page","level":"info","service":"user-service","timestamp":"11-05-2020 19:27:52"}
+{"message":"On the router's page","level":"info","service":"user-service","timestamp":"11-05-2020 19:28:38"}
+{"message":"On the router's page","level":"info","service":"user-service","timestamp":"11-05-2020 19:28:46"}
+{"message":"On the router's page","level":"info","service":"user-service","timestamp":"11-05-2020 19:29:25"}
+{"message":"vinyl { _id: 5ea14cc5898c173eb1689b1a,\n  name: 'Girls Girls Girls',\n  artist: 'Motley Crue',\n  year: 1988,\n  genre: 'Rock',\n  __v: 0 } found and deleted","level":"info","service":"user-service","timestamp":"11-05-2020 19:29:25"}
+{"message":"We've reached the database","level":"info","service":"user-service","timestamp":"11-05-2020 19:34:06"}
+{"message":"Listening to server on port 3001","level":"info","service":"user-service","timestamp":"11-05-2020 19:34:06"}
+{"message":"On the router's page","level":"info","service":"user-service","timestamp":"11-05-2020 19:34:22"}
+{"message":"We've reached the database","level":"info","service":"user-service","timestamp":"11-05-2020 19:35:27"}
+{"message":"Listening to server on port 3001","level":"info","service":"user-service","timestamp":"11-05-2020 19:35:27"}
+{"message":"On the router's page","level":"info","service":"user-service","timestamp":"11-05-2020 19:35:34"}
+{"message":"We've reached the database","level":"info","service":"user-service","timestamp":"11-05-2020 19:36:09"}
+{"message":"Listening to server on port 3001","level":"info","service":"user-service","timestamp":"11-05-2020 19:36:09"}
+{"message":"On the router's page","level":"info","service":"user-service","timestamp":"11-05-2020 19:36:17"}
